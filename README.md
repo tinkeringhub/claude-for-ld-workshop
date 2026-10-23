@@ -2,7 +2,7 @@
 
 Materials from a hands-on workshop I ran for the ATD Houston Technology SIG in April 2026. It teaches learning and development professionals how to put Claude to work on real L&D tasks: course objectives, learner personas, style guides, and the rest of the design workflow.
 
-Everything here is free to use. Borrow it, remix it, run your own version.
+Everything here is free to use under [CC BY 4.0](LICENSE). Borrow it, remix it, run your own version. Just credit me (Tamara Thomas, [tinkeringhub.com](https://tinkeringhub.com)).
 
 ## What's in here
 
